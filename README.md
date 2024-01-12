@@ -19,6 +19,11 @@ Example: `C:\Epic Games\Control\data_pc`,
 
 Delete the following:
 
+**ASYNCHRONOUS SUIT**
+<br>`data_pc\textures\characters\andro\jesse\accessories\jesse_master_accessories_d.tex`
+<br>`data_pc\textures\characters\andro\jesse\bottoms\jesse_master_bottom_d.tex`
+<br>`data_pc\textures\characters\andro\jesse\tops\jesse_master_top_d.tex`
+
 **EYES**
 <br>`data_pc\textures\characters\andro\heads\courtney_hope\courtney_hope_eye_d.tex`
 
